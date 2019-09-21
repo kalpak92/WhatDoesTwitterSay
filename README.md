@@ -8,8 +8,8 @@ This was demoed in ShellHacks 2018 in Miami, FL.
 Clone the repository
 
 ```bash
-git clone https://github.com/debdeepB/validation.git
-cd validation
+git clone https://github.com/kalpak92/WhatDoesTwitterSay.git
+cd WhatDoesTwitterSay
 ```
 
 The frontend is written in Vue.js and the backend is written in Django. Run two servers in different ports.
@@ -44,12 +44,3 @@ Run the backend web-server at port 8002
 ```bash
 python manage.py runserver 127.0.0.1:8002
 ```
-
-
-
-
-
-
-
-
-
