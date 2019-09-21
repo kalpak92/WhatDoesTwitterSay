@@ -1,5 +1,5 @@
 Django==1.11.15
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 django-cors-headers==2.4.0
 python-twitter==3.4.2
 textblob==0.15.1
