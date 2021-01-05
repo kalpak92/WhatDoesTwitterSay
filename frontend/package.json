@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "plotly.js": "^1.41.0",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
